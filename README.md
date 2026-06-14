@@ -1,6 +1,6 @@
 ## Hi there, I'm Hossein 👋
 
-Interested in the world of artificial intelligence and data analysis, I want to tell a little about myself in this repository.
+Interested in the world of artificial intelligence 🤖 and data analysis, I want to tell a little about myself in this repository.
 
 ---
 
