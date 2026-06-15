@@ -37,7 +37,6 @@ I am currently on an exciting journey to master these technologies. My daily rou
 
 ### 📬 Let's Connect
 ✉️ **Email:** [hoseinrezazadeh51@gmail.com](mailto:hoseinrezazadeh51@gmail.com)
-]
 
 ---
 ### 💡 My Philosophy
