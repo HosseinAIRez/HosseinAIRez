@@ -1,6 +1,6 @@
-# Hi there, I'm Hossein 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Hossein+👋;)](https://git.io/typing-svg)
 
-Dedicated to Artificial Intelligence 🤖 and Data Analysis 📊. Here is my digital workspace where I share my learning journey (and it's all about the journey and not the destination 🍃), projects, and professional growth.
+Enthusiastic in Artificial Intelligence 🤖 and Data Analysis 📊 fields. Here is my digital workspace where I share my learning journey (and it's all about the journey and not the destination 🍃), projects, and professional growth.
 
 ---
 
