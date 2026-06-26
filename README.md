@@ -21,11 +21,16 @@ I am currently on an exciting journey to master these technologies. My daily rou
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="45" height="45"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt = "jupyter" width="45" height="45"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt = "numpy" width="60" height="60"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt = "pandas" width="45" height="45"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt = "matplotlib" width="60" height="60"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" alt = "plotly" width="60" height="60"/>
 </p>
 
 - 🐍 **Languages:** Python, SQL
 - 🧠 **ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy
 - ⚙️ **Engineering Tools:** Git, VS Code, Docker, Jupyter Notebook
+- 📊 **Visualization Tools:** matplotlib, plotly
 
 ---
 
